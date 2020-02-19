@@ -1,0 +1,47 @@
+
+.titulojuego{
+
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+
+}
+
+
+body{
+    background-color: aqua;
+}
+
+
+
+.numeros{
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+}
+.letras{
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+}
+.titulo1{
+    
+    display: flex;
+    justify-content: center;
+}
+.titulo2{
+    
+    display: flex;
+    justify-content: center;
+}
+.botones{
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+#miboton{
+
+    width: 50px;
+    height: 50px;
+
+}
